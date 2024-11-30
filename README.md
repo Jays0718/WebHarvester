@@ -26,7 +26,7 @@ WebHarvester is a powerful and efficient web scraping application designed to ex
 ## Installation 📝
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WebHarvester.git
+   git clone https://github.com/Jays0718/WebHarvester.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -84,8 +84,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📧
 For any queries or suggestions, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: jaydeepshinde78.40@.com
+- **GitHub**: [Jays0718](https://github.com/Jays0718)
 
 ---
 
